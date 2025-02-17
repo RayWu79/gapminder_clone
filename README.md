@@ -6,9 +6,9 @@ This project, "200 Countries, 200 Years, 4 Minutes", is a recreation of the reno
 ## How to Reproduce
  - Install Miniconda
  - Create the environment using `environment.yml`:
- '''bash
+ ```bash
  conda env create -f environment.yml
- '''
+ ```
  - Place the four CSV files from the `data/` folder into the `data/` folder in the working directory.
  ```bash
  python create_gapminder_db.py
