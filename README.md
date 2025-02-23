@@ -1,4 +1,4 @@
-# Practice Praoject: 
+# Practice Praoject:  Gapminder Foundation Plot Implementation
 
 ## Introduction:
 This project, "200 Countries, 200 Years, 4 Minutes", is a recreation of the renowned data visualization by Hans Rosling. We built a database using pandas and sqlite3, conducted a proof of concept with matplotlib, and ultimately created the final visualization using plotly.express.
